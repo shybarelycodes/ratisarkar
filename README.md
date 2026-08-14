@@ -40,3 +40,15 @@ The Just4Kira URL in the original message looked malformed, so the site uses:
 `https://www.just4kira.com/`
 
 Change that link in `index.html` if a different affiliate URL is required.
+
+
+## New in this version
+- Light/dark mode toggle with saved preference
+- Automatically respects device dark mode on first visit
+- Animated hero mascot, bee, sparkles, hearts and footer bear
+- Scroll-in section animations
+- Subtle desktop card tilt
+- Hover shimmer and button motion
+- Honey-colored confetti when a discount code is copied
+- Reduced-motion accessibility support
+- Includes `CNAME` set to `sbuj0.com`
